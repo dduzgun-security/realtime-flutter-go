@@ -1,7 +1,7 @@
 # realtime-flutter-go
 
 #### To run the database
-`docker-compuse up`
+`docker-compose up`
 
 #### To run the backend
 `go run main.go`
